@@ -8,10 +8,5 @@
 ## 2. Tech Stack
 lang = python
 
-## 3. Current State
-bot.py به درستی فیلتر نمیکند تا بتواند به درستی پاسخ بدهد
-
-## 4. Next Steps (TODO)
- بهبود عملکرد bot.py
-## 5. Rules & Commands
+## 3. Rules & Commands
 ترجیحا فقط از پایتون استفاده بشود
